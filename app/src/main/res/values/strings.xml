@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="load">LOAD</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="name">Name</string>
+    <string name="location_not_available">Location Not Available</string>
+    <string name="repository">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="name_">Name :</string>
+    <string name="url">Url :</string>
+</resources>
